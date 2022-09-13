@@ -62,7 +62,7 @@ falcon = Hosts(creds={
         "client_id": config["falcon_client_id"],
         "client_secret": config["falcon_client_secret"]
     },
-     base_url = "https://api.eu-1.crowdstrike.com"   # Enter your base URL here if it is not US-1
+     base_url = "https://api.XXX.crowdstrike.com"   # Enter your base URL here if it is not US-1
 )
 
 OFFSET = None   # First time the token is null
