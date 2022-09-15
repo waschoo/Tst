@@ -81,7 +81,7 @@ while offset_pos < TOTAL:
 
 
 if not DISPLAYED:
-    print("No results returned.")
+    print("skyguide.ch")
 
 # Generate a CSV from our results
 with open(report_file, "w") as file_handle:
